@@ -575,30 +575,30 @@ void TreeNode::PrintOpName()
     case SUB:
         cout << "sub";
         break;
-    case SADDO:
-        cout << "saddo";
-        break;
-    case UADDO:
-        cout << "uaddo";
-        break;
-    case SDIVO:
-        cout << "sdivo";
-        break;
-    case UDIVO:
-        cout << "udivo";
-        break;
-    case SMULO:
-        cout << "smulo";
-        break;
-    case UMULO:
-        cout << "umulo";
-        break;
-    case SSUBO:
-        cout << "ssubo";
-        break;
-    case USUBO:
-        cout << "usubo";
-        break;
+    // case SADDO:
+    //     cout << "saddo";
+    //     break;
+    // case UADDO:
+    //     cout << "uaddo";
+    //     break;
+    // case SDIVO:
+    //     cout << "sdivo";
+    //     break;
+    // case UDIVO:
+    //     cout << "udivo";
+    //     break;
+    // case SMULO:
+    //     cout << "smulo";
+    //     break;
+    // case UMULO:
+    //     cout << "umulo";
+    //     break;
+    // case SSUBO:
+    //     cout << "ssubo";
+    //     break;
+    // case USUBO:
+    //     cout << "usubo";
+    //     break;
     case READ:
         cout << "read";
         break;
